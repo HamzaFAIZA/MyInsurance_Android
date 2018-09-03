@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "642017249749",
+    "firebase_url": "https://assuranceapp-43938.firebaseio.com",
+    "project_id": "assuranceapp-43938",
+    "storage_bucket": "assuranceapp-43938.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642017249749:android:246850f048eb6b6d",
+        "android_client_info": {
+          "package_name": "esprit.tn.assuranceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642017249749-epsgi8cbiedq5vcrevevschdogq2dqm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAws247CW_PWQdzzZTGMTQmRho1Niwv_1I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
